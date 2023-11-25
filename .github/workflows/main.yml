@@ -1,0 +1,8 @@
+image: node
+
+stages: 
+  - build
+  - test
+
+build website:
+  - echo "hi"
